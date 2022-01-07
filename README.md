@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @solloski. Thats my gamertag in case you're wondering.
+- 👀 I’m interested in network automation/python programming
+- 🌱 I’m currently learning network automation
+- 💞️ I’m looking to collaborate on any python related projects
+- 📫 How to reach me - Just drop me a message.
